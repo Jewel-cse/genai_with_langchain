@@ -6,7 +6,7 @@ load_dotenv()
 embedding = OpenAIEmbeddings(model='text-embedding-3-large', dimensions=32)
 
 documents = [
-    "Delhi is the capital of India",
+    "Delhi is the capital of Bangladesh",
     "Kolkata is the capital of West Bengal",
     "Paris is the capital of France"
 ]
